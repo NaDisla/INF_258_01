@@ -12,3 +12,4 @@ lista = ["Hola", 34, 52.02]  # Lista
 
 # Eduardo Artruo Batista Diaz-Valdepares
 # Gabriel Severino Bobadilla
+# Alexander Jimenez Guzman
