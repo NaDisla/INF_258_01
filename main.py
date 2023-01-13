@@ -14,3 +14,4 @@ lista = ["Hola", 34, 52.02]  # Lista
 # Gabriel Severino Bobadilla
 # Alexander Jimenez Guzman
 # Mario Enrique Malagon
+# Edward Acosta Paulus
