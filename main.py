@@ -16,3 +16,4 @@ lista = ["Hola", 34, 52.02]  # Lista
 # Mario Enrique Malagon
 # Edward Acosta Paulus
 # Ruben Paulino
+#Erick GUtierrez 
